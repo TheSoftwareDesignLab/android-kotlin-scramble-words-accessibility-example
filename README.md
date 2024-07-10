@@ -8,6 +8,7 @@ This code sample also demonstrates how to implement Data Binding with LiveData.
 
 Used in the [Android Basics with Kotlin](https://developer.android.com/courses/android-basics-kotlin/course) course.
 
+Based on [Google example](https://github.com/google-developer-training/android-basics-kotlin-unscramble-app) repository.
 
 Pre-requisites
 --------------
